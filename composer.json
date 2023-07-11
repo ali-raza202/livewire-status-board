@@ -1,28 +1,28 @@
 {
-    "name": "asantibanez/livewire-status-board",
+    "name": "ali-raza202/livewire-status-board",
     "description": "Livewire component to show models/data according to its current status",
     "keywords": [
         "asantibanez",
         "livewire-status-board"
     ],
-    "homepage": "https://github.com/asantibanez/livewire-status-board",
+    "homepage": "https://github.com/ali-raza202/livewire-status-board",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Andrés Santibáñez",
-            "email": "santibanez.andres@gmail.com",
+            "name": "Ali Raza",
+            "email": "raza817311@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^7.2|^8.0",
-        "illuminate/support": "^7.0|^8.0",
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0",
         "livewire/livewire": "^1.0|^2.0"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0|^6.0",
-        "phpunit/phpunit": "^8.0|^9.0"
+        "phpunit/phpunit": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
